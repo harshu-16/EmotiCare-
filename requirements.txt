@@ -1,0 +1,10 @@
+opencv-python
+fer
+gtts
+playsound
+pyttsx3
+pandas
+SpeechRecognition
+transformers
+torch
+pyaudio
