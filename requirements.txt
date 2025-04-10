@@ -8,3 +8,4 @@ SpeechRecognition
 transformers
 torch
 pyaudio
+numpy
